@@ -115,6 +115,17 @@ header {
   color: #fff;
 }
 
+.about-image-placeholder {
+  width: 100%;
+  height: 280px;
+  border-radius: 16px;
+  background: linear-gradient(
+    135deg,
+    var(--color-sunny-wheat),
+    var(--color-amber-flame)
+  );
+}
+
 .section-heading {
   color: var(--color-forest-moss);
   font-size: 1.2rem;
